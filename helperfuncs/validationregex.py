@@ -11,11 +11,10 @@ def pattern_check(user_name):
     else:
         return(None)
 
-if __name__ == '__main__':
-    main()
-
-
 def region_check(region):
     ''' Enter the Region(Continent) '''
     # Future add
     pass
+
+if __name__ == '__main__':
+    main()
